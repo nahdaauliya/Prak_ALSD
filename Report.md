@@ -11,7 +11,7 @@
 
 The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
 
-![Screenshot](img/img1.png)
+https://github.com/nahdaauliya/Prak_ALSD/blob/20334ed1c513c9cbce06f212d6d2ecbe3901085b/Image/WhatsApp%20Image%202025-02-16%20at%2020.18.12_9c640341.jpg
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
