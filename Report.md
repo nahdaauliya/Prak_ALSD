@@ -11,7 +11,7 @@
 
 The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
 
-
+https://github.com/nahdaauliya/Prak_ALSD/tree/ce42c6ae18b9d25f5805aa601c809daf295b022b/Image
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
