@@ -11,7 +11,12 @@
 
 The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
 
-https://github.com/nahdaauliya/Prak_ALSD/tree/ce42c6ae18b9d25f5805aa601c809daf295b022b/Image
+![Image](https://github.com/user-attachments/assets/9a02b1e5-0702-4de0-98b3-4a317b15d899)
+![Image](https://github.com/user-attachments/assets/002f84c4-7128-42ba-afd3-0ff13e7a1cc6)
+![Image](https://github.com/user-attachments/assets/eb020037-f766-4904-8571-8412eee25545)
+![Image](https://github.com/user-attachments/assets/9b350ea3-74fd-42a0-81a5-602c85019e8a)
+![Image](https://github.com/user-attachments/assets/89626c7c-fe18-44ec-9be1-9d1240fe0f3c)
+![Image](https://github.com/user-attachments/assets/c4488e22-b342-4ef2-9543-b62fa4260c76)
 
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
