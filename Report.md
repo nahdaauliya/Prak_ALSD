@@ -15,7 +15,6 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 ![Image](https://github.com/user-attachments/assets/002f84c4-7128-42ba-afd3-0ff13e7a1cc6)
 ![Image](https://github.com/user-attachments/assets/eb020037-f766-4904-8571-8412eee25545)
 ![Image](https://github.com/user-attachments/assets/9b350ea3-74fd-42a0-81a5-602c85019e8a)
-![Image](https://github.com/user-attachments/assets/89626c7c-fe18-44ec-9be1-9d1240fe0f3c)
 ![Image](https://github.com/user-attachments/assets/c4488e22-b342-4ef2-9543-b62fa4260c76)
 ![Image](https://github.com/user-attachments/assets/4ef03fb0-08b3-4a91-80af-ff376a894853)
 ![Image](https://github.com/user-attachments/assets/25a7f268-4377-479e-874a-ba076d1d969b)
