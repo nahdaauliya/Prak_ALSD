@@ -18,6 +18,10 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 ![Image](https://github.com/user-attachments/assets/89626c7c-fe18-44ec-9be1-9d1240fe0f3c)
 ![Image](https://github.com/user-attachments/assets/c4488e22-b342-4ef2-9543-b62fa4260c76)
 
+![Image](https://github.com/user-attachments/assets/25a7f268-4377-479e-874a-ba076d1d969b)
+![Image](https://github.com/user-attachments/assets/6eeed9df-b088-4e57-9df1-2d4e37f8b66b)
+![Image](https://github.com/user-attachments/assets/5e2debf9-02fd-4487-96e3-44beceb15f47)
+
 **Brief explanaton:** There are 4 main step: 
 1. Input all grades
 2. Validate the input
