@@ -1,3 +1,5 @@
+package jobsheet1;
+
 import java.util.Scanner;
 public class assignment {
     static char [] code = {'A','B','C','D','E','F','G','H','L','N', 'T'};
