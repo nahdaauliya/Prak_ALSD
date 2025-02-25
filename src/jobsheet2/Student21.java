@@ -1,9 +1,21 @@
+package jobsheet2;
 
 public class Student21 {
     String studentID;
     String name;
     String className;
     double gpa;
+
+    public Student21(){
+    }
+
+  
+    public Student21(String id, String name, String cls, double gpa){
+        this.studentID = id;
+        this.name = name;
+        this.className = cls;
+        this.gpa = gpa;
+    }
 
     void print(){
         System.out.println("Student ID: " + studentID);
@@ -12,10 +24,13 @@ public class Student21 {
         System.out.println("GPA: "+ gpa);
     }
     void changeClass(String newClass){
-        className = newClass;
+        this.className = newClass;
     }
-    void changeClass(double newGPA){
+    void updateGPA(double newGPA){
         gpa = newGPA;
+        if (gpa < 0.0 || gpa > 4.0){
+            System.out.println("Invalid GPA");
+        }
     }
     String evaluate(){
         if (gpa >= 3.5){
