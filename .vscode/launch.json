@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LecturerDemo21",
+            "request": "launch",
+            "mainClass": "jobsheet3.LecturerDemo21",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "TriangleMain",
+            "request": "launch",
+            "mainClass": "jobsheet3.TriangleMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBlocks",
+            "request": "launch",
+            "mainClass": "jobsheet3.ArrayBlocks",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "jobsheet3.ArrayOfObjects",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "LecturerMain21",
             "request": "launch",
             "mainClass": "jobsheet2.LecturerMain21",

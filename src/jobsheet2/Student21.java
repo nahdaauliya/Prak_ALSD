@@ -6,7 +6,7 @@ public class Student21 {
     String className;
     double gpa;
 
-    public Student21(){
+    public Student21(){ 
     }
 
   
