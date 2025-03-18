@@ -50,7 +50,8 @@ The solution is implemented in Power.java and PowerMain.java, and below is scree
     ![Image](https://github.com/user-attachments/assets/56dc3044-6942-4e72-8397-3dbfb7adee74)
 
     ![Image](https://github.com/user-attachments/assets/ec0b35d8-5d68-40d2-921e-e97c0f3aefb5)
-3. 
+3. Yes, The powerBF() method can be implemented without parameters since the Power class already has baseNumber and exponent attributes. 
+![Image](https://github.com/user-attachments/assets/f91171d7-a94c-4b3d-88a7-5087d886bfd6)
 
 
 4.  - powerBF() = this method using loop for count power result manually. And loop will repeat an exponent number of times.
