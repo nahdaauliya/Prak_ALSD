@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssignmentMain",
+            "request": "launch",
+            "mainClass": "jobsheet4.AssignmentMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "SumMain",
+            "request": "launch",
+            "mainClass": "jobsheet4.SumMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "PowerMain",
+            "request": "launch",
+            "mainClass": "jobsheet4.PowerMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial",
+            "request": "launch",
+            "mainClass": "jobsheet4.MainFaktorial",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "MemberMain",
+            "request": "launch",
+            "mainClass": "p1.MemberMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "LecturerDemo21",
             "request": "launch",
             "mainClass": "jobsheet3.LecturerDemo21",
