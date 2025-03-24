@@ -8,8 +8,8 @@ public class AssignmentMain {
         Scanner sc = new Scanner(System.in);
         System.out.print("Input the number of student: ");
         int n = sc.nextInt();
+        
         assignmentArray = new Assignmentt[n];
-
         for (int i = 0; i < n; i++){
             assignmentArray[i] = new Assignmentt();
             System.out.println("Student " + (i+1));
@@ -37,7 +37,7 @@ public class AssignmentMain {
             System.out.println("4. Calculate The Average Final Score(UAS) Of All Students Using The Brute Force Approach");
             System.out.print("Choose Number Of Menu: ");
             int menu = sc.nextInt();
-            System.out.println("===================================");
+            System.out.println("=============   ======================");
 
             switch (menu) {
                 case 1:

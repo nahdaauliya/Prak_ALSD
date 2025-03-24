@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LecturerDemo",
+            "request": "launch",
+            "mainClass": "jobsheet5.LecturerDemo",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo21",
+            "request": "launch",
+            "mainClass": "jobsheet5.StudentDemo21",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "SortingMain21",
+            "request": "launch",
+            "mainClass": "jobsheet5.SortingMain21",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "AssignmentMain",
             "request": "launch",
             "mainClass": "jobsheet4.AssignmentMain",
