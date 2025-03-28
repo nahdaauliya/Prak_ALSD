@@ -8,6 +8,27 @@
             "type": "java",
             "name": "LecturerDemo",
             "request": "launch",
+            "mainClass": "week6.LecturerDemo",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "SortMain",
+            "request": "launch",
+            "mainClass": "week7.SortMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "MainStudent",
+            "request": "launch",
+            "mainClass": "week7.MainStudent",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "LecturerDemo",
+            "request": "launch",
             "mainClass": "jobsheet5.LecturerDemo",
             "projectName": "DasproReview_a9eefddb"
         },

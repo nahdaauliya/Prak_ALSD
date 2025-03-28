@@ -1,4 +1,4 @@
-package jobsheet5;
+package week6;
 
 import java.util.Scanner;
 public class LecturerDemo {
@@ -15,7 +15,9 @@ public class LecturerDemo {
             System.out.println("2. Display Data");
             System.out.println("3. Sort ASC");
             System.out.println("4. Sort DSC");
-            System.out.println("5. Exit");
+            System.out.println("5. Search Lecturer Data by Name");
+            System.out.println("6. Search Lecturer by Age");
+            System.out.println("7. Exit");
             System.out.print("Enter your choice: ");
             int choice = sc.nextInt();
             sc.nextLine();
@@ -53,6 +55,18 @@ public class LecturerDemo {
                     dsn.print();
                     break;
                 case 5: 
+                    System.out.println("Search Lecturer Data by Name");
+                    System.out.print("Input the name of the lecturer you want to search for: ");
+                    String search = sc.nextLine();
+                    dsn.printSeqSearcResult(search);
+                    break;
+                case 6: 
+                    System.out.println("Search Lecturer Data by Age");
+                    System.out.print("Input the age of the lecturer you want to search for: ");
+                    int search2 = sc.nextInt();
+                    dsn.printBinarySearchResult(search2);
+                    break;
+                case 7: 
                     System.out.println("Thank you for using our program.");
                     return;
                 default:

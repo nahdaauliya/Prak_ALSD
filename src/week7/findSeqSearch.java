@@ -1,7 +1,5 @@
-package jobsheet3;
+package week7;
 
-public class Square {
-    public int side;
-    Square[] squareArray = new Square[100];
+public class findSeqSearch {
     
 }

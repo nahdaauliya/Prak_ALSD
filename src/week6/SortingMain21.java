@@ -1,4 +1,4 @@
-package jobsheet5;
+package week6;
 
 public class SortingMain21 {
     public static void main(String[] args) {

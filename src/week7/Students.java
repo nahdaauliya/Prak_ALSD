@@ -1,15 +1,15 @@
 package week7;
 
 public class Students {
-    int nim, age;
+    int age, nim;
     String name;
     double gpa;
 
-    public void Students(){
+    public Students(){
 
     }
 
-    public void Students(int nim, String name, int age, double gpa){
+    public Students(int nim, String name, int age, double gpa){
         this.nim = nim;
         this.name = name;
         this.age = age;

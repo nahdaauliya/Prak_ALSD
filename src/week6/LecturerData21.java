@@ -1,4 +1,4 @@
-package jobsheet5;
+package week6;
 
 public class LecturerData21 {
     Lecturer21[] lecturerData;
@@ -62,5 +62,58 @@ public class LecturerData21 {
         }
     }
 
+    public String findSeqSearch(String search){
+        for (int i = 0; i < lecturerData.length; i++){
+            if (lecturerData[i].name.equals(search)){
+                return "Found at index " + i;
+            }
+        }
+        return "not found";
+    }
+
+    public int findBinarySearch(int cari, int left,int right){
+        int mid;
+        if (right >= left){
+            mid = (left + right)/2;
+            if (cari == lecturerData[mid].age){
+                return(mid);
+            } else if (lecturerData[mid].age > cari){
+                return findBinarySearch(cari, left, mid -1);
+            } else {
+                return findBinarySearch(cari, mid + 1, right);
+            }
+        }
+        return -1;
+    }
+
+    public void printSeqSearcResult(String search){
+
+        for (int i=0; i < idx; i++){
+            if (lecturerData[i].name.equalsIgnoreCase(search)){
+                System.out.println("Lecturer found: ");
+                System.out.println("========================================================");
+                System.out.println("NIDN: "+ lecturerData[i].id);
+                System.out.println("Name: " + lecturerData[i].name);
+                System.out.println("Gender: " +(lecturerData[i].gender? "Male": "Female"));
+                System.out.println("Age: " +lecturerData[i].age);
+                System.out.println("========================================================");
+            }
+        }
+    }
     
+    public void printBinarySearchResult(int age){
+        sortASC();
+        int result = findBinarySearch(age, 0, idx - 1);
+        if (result != -1){
+            System.out.println("Lecturer found");
+            System.out.println("===============================================================");
+            System.out.println("NIDN: " +lecturerData[result].id);
+            System.out.println("Name: " + lecturerData[result].name);
+            System.out.println("Gender: "+ (lecturerData[result].gender? "Male": "Female"));
+            System.out.println("Age: " + lecturerData[result].age);
+            System.out.println("================================================================");
+        } else{
+            System.out.println("Not found");
+        }
+    }
 }
