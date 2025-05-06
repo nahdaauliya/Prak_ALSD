@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExcuseLetterDemo",
+            "request": "launch",
+            "mainClass": "week10.ExcuseLetterDemo",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo21",
+            "request": "launch",
+            "mainClass": "week10.StudentDemo21",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Study_Case.Main",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "LecturerDemo",
             "request": "launch",
             "mainClass": "week6.LecturerDemo",

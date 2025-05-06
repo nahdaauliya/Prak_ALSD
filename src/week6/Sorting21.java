@@ -9,7 +9,7 @@ public class Sorting21 {
         this.size = data.length;
     }
 
-    public void bubbleSort(){
+     public void bubbleSort(){
         for(int i = 0; i < size - 1; i++){
             for (int j = 0; j < size - i - 1; j++){
                 if(data[j] > data[j+1]){

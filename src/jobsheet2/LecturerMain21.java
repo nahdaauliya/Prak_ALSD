@@ -12,7 +12,7 @@ public class LecturerMain21 {
         Lecturer2.startYear = 2021;
         Lecturer2.expertiseField = "Computer Science";
         Lecturer2.print(); 
-        int tenure2 = Lecturer2.calculateTenure(2025);;
+        int tenure2 = Lecturer2.calculateTenure(2025);
         
 
         Lecturer21 Lecturer3 = new Lecturer21("24244389457", "Prof. Natachai", false, 2019, "Mathematics");
