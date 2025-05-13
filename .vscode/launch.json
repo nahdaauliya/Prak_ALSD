@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssignmentQueueMain",
+            "request": "launch",
+            "mainClass": "week11.AssignmentQueueMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "StudentQueueMain",
+            "request": "launch",
+            "mainClass": "week11.StudentQueueMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain",
+            "request": "launch",
+            "mainClass": "week11.QueueMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "ExcuseLetterDemo",
             "request": "launch",
             "mainClass": "week10.ExcuseLetterDemo",
