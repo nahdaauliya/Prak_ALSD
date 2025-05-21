@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssignmentSLLMain",
+            "request": "launch",
+            "mainClass": "week12.AssignmentSLLMain",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "week12.Main",
+            "projectName": "DasproReview_a9eefddb"
+        },
+        {
+            "type": "java",
             "name": "AssignmentQueueMain",
             "request": "launch",
             "mainClass": "week11.AssignmentQueueMain",
